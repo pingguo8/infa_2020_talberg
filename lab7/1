@@ -149,7 +149,7 @@ def move_ball(ball):
 
 
 
-print('Здравствуйте. Введите число играков')
+print('введите число игроков')
 player = int(input())
 out = open('result.txt' ,'w')
 name = [] # list of players' name
